@@ -1,4 +1,3 @@
-# PDF-Page-Remover
 # PDF Page Remover
 
 ## Description
