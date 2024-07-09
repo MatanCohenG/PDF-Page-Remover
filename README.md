@@ -47,6 +47,3 @@ PDF Page Remover is a simple Python-based application that allows users to uploa
 
 Written by Matan Cohen
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
