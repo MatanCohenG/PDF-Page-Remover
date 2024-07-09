@@ -39,9 +39,6 @@ PDF Page Remover is a simple Python-based application that allows users to uploa
     ```
 2. Follow the on-screen instructions to upload a PDF file, specify the pages to remove, and save the modified PDF.
 
-## Example
-
-![PDF Page Remover Screenshot](path-to-screenshot.png)
 
 ## Author
 
